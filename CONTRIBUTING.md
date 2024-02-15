@@ -1,4 +1,4 @@
-# Contribute to Scroll Guidelines
+# Contribute to Scroll Guidelines GIVE ME DROP ZIOM
 
 Thanks for helping to build the Scroll ecosystem! Contribution guidelines for this project are a bit odd, because the goal is to collect community contributions made in other repos — some in the scroll-tech organization, but many outside of it.
 
